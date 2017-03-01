@@ -1,6 +1,6 @@
 #verhoeff-experiments
 
-verhoeff-experiments is a testing app that plays around with he verhoeff
+verhoeff-experiments is a testing app that plays around with the verhoeff
 algorithm. This algorithm is deemed better then the Luhn algorithm which
 is currently used for credit card checksum validation (yes, 2017 last
 digit of your credit card, is a checksum of the Luhn algorithm)
